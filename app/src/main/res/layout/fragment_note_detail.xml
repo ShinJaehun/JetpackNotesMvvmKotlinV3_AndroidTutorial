@@ -6,7 +6,7 @@
                                                    android:layout_width="match_parent"
                                                    android:layout_height="match_parent"
                                                    android:background="@drawable/space_loop"
-                                                   tools:context="com.shinjaehun.jetpacknotesmvvmkotlinv2.note.NoteActivity">
+                                                   tools:context="com.shinjaehun.jetpacknotesmvvmkotlinv3.note.NoteActivity">
 
     <FrameLayout
             android:id="@+id/tlb_detail_fragment"
